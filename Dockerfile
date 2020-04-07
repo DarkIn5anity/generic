@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM nginx:alpine
 MAINTAINER Matt Kimberley <matt.kimberley84@gmail.com>
 
 ENV GENERICCACHE_VERSION 1

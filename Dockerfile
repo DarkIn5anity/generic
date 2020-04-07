@@ -1,5 +1,5 @@
-FROM nginx:alpine
-MAINTAINER SteamCache.Net Team <team@steamcache.net>
+FROM ubuntu:latest
+MAINTAINER Matt Kimberley <matt.kimberley84@gmail.com>
 
 ENV GENERICCACHE_VERSION 1
 ENV WEBUSER nginx

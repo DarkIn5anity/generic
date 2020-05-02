@@ -1,4 +1,4 @@
-FROM nginx:alpine
+FROM debian:latest
 MAINTAINER Matt Kimberley <matt.kimberley84@gmail.com>
 
 ENV GENERICCACHE_VERSION 1
